@@ -1,0 +1,5 @@
+outs:
+- md5: a8f4ff796c30252aaf6689364b34d99f
+  size: 6715635
+  hash: md5
+  path: phone_brand_device_model.csv

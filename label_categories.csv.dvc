@@ -1,0 +1,5 @@
+outs:
+- md5: 39a352113c8935c729e0be3d025751a4
+  size: 16450
+  hash: md5
+  path: label_categories.csv
